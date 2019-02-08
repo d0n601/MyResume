@@ -1,6 +1,6 @@
 # My Resume #
 
-Hello, what you're looking at is the public repository for my resume.
+Hello, what you're looking at is the public repository for my [resume](https://github.com/d0n601/MyResume/blob/master/ryankozak/resume.pdf).
 
 
 ### Credit ###
